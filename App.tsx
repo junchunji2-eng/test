@@ -1,6 +1,6 @@
 
 import React, { useState, useCallback } from 'react';
-import { Button } from './components/Button';
+import { Button } from './components/Button.tsx';
 
 const App: React.FC = () => {
   const [message, setMessage] = useState<string>('버튼을 눌러주세요.');
