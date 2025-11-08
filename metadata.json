@@ -1,0 +1,5 @@
+{
+  "name": "Button Click Notifier",
+  "description": "A simple and visually appealing web application that displays a confirmation message when a user clicks a button.",
+  "requestFramePermissions": []
+}
